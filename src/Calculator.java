@@ -25,7 +25,7 @@ It was created by Mohamed in 2022.
         return a*b;
     }
     // Q10 Q11
-    public int divide(int a, int b) {
+    public double divide(double a, double b) {
         return a / b;
     }
 
